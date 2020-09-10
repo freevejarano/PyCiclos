@@ -13,3 +13,4 @@ def palindroma(palabra):
         print('La palabra ',palabra,' no es palindroma')
 
     return palabra==aux
+
